@@ -37,6 +37,7 @@ Select a year to browse the assets created or used during that period.
 * [**2023 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2023)
 * [**2024 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2024)
 * [**2025 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2025)
+* [**2026 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2026)
 
 ---
 
