@@ -1,0 +1,21 @@
+{
+  "name": "@banabyte/assets",
+  "version": "26.1.0",
+  "private": true,
+  "description": "A collection of all current Banabyte branding assets.",
+  "author": "DamienVesper",
+  "type": "module",
+  "scripts": {
+    "fmt": "bun --bun oxfmt",
+    "fmt:ci": "oxfmt --check"
+  },
+  "dependencies": {
+    "hjson": "^3.2.2"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.77.0"
+  },
+  "engines": {
+    "bun": ">=1.4.0"
+  }
+}

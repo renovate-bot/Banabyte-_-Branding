@@ -1,0 +1,20 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "ignorePatterns": ["**/node_modules"],
+  "overrides": [
+    {
+      "files": ["**/*.json", "**/*.yml"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ],
+
+  // Rules
+  "printWidth": 120,
+  "sortPackageJson": {
+    "sortScripts": true
+  },
+  "tabWidth": 4,
+  "trailingComma": "none"
+}
