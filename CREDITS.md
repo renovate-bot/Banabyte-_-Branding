@@ -13,4 +13,4 @@ All icons are generated from logo SVGs. See them for relevant credits.
 ## Logos
 
 - `banabyte.svg` - [allbyte.design](https://allbyte.design)
-- `banabyte-github.svg` - [allbyte.design](https://allbyte.design)
+- `banabot.svg` - [allbyte.design](https://allbyte.design)

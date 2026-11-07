@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="./src/icons/banabyte.png" alt="Banabyte logo">
     <h1>Banabyte Assets</h1>
     <p>This is the official brand asset repository for Banabyte LLC.</p>
 </div>
