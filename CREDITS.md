@@ -4,7 +4,7 @@ This file does not serve as a grantor of rights for any of the mentioned assets.
 
 ## Banners
 
-- `email.png` - @ZEROPOINTBRUH
+- `email.png` - [@ZEROPOINTBRUH](https://github.com/ZEROPOINTBRUH)
 
 ## Icons
 
@@ -12,6 +12,6 @@ All icons are generated from logo SVGs. See them for relevant credits.
 
 ## Logos
 
-- `banablock.svg` - @DamienVesper
+- `banablock.svg` - [@DamienVesper](https://github.com/DamienVesper)
 - `banabot.svg` - [allbyte.design](https://allbyte.design)
 - `banabyte.svg` - [allbyte.design](https://allbyte.design)
