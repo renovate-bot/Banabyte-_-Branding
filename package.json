@@ -8,9 +8,6 @@
     "fmt": "bun --bun oxfmt",
     "fmt:ci": "oxfmt --check"
   },
-  "dependencies": {
-    "hjson": "^3.2.2"
-  },
   "devDependencies": {
     "oxfmt": "^0.77.0"
   },
