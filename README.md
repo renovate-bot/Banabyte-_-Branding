@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/icons/banabyte.png" alt="Banabyte logo">
+    <img src="./src/icons/banabyte.webp" alt="Banabyte logo" style="height: 128px;">
     <h1>Banabyte Assets</h1>
     <p>This is the official brand asset repository for Banabyte LLC.</p>
 </div>
