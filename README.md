@@ -1,6 +1,7 @@
-# Banabyte Assets
-
-This is the official brand asset repository for Banabyte LLC.
+<div align="center">
+    <h1>Banabyte Assets</h1>
+    <p>This is the official brand asset repository for Banabyte LLC.</p>
+</div>
 
 ## Usage Terms
 

@@ -6,11 +6,11 @@ This file does not serve as a grantor of rights for any of the mentioned assets.
 
 - `email.png` - @ZEROPOINTBRUH
 
-## Favicons
+## Icons
 
-All favicons are generated from logo SVGs. See them for relevant credits.
+All icons are generated from logo SVGs. See them for relevant credits.
 
 ## Logos
 
 - `banabyte.svg` - [allbyte.design](https://allbyte.design)
-- `banabyte-outline.svg` - [allbyte.design](https://allbyte.design)
+- `banabyte-github.svg` - [allbyte.design](https://allbyte.design)

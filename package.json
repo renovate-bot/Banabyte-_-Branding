@@ -3,7 +3,6 @@
   "version": "26.1.0",
   "private": true,
   "description": "A collection of all current Banabyte branding assets.",
-  "author": "DamienVesper",
   "type": "module",
   "scripts": {
     "fmt": "bun --bun oxfmt",
